@@ -22,5 +22,8 @@ The **Password Generator** is a simple and effective tool for generating secure 
 
    ```sh
    git clone https://github.com/your-username/password-generator.git
-
+   cd generator_password
+   
 2. **Run the code**
+3. ```sh
+   python3 main.py
