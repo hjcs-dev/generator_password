@@ -21,7 +21,7 @@ The **Password Generator** is a simple and effective tool for generating secure 
    Open your terminal or command prompt and clone this repository:
 
    ```sh
-   git clone https://github.com/your-username/password-generator.git
+   git clone https://github.com/hjcs-dev/generator_password.git
    cd generator_password
    
 2. **Run the code**
